@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MusicPlayer_CSharp/1.0.0": {
+        "runtime": {
+          "MusicPlayer_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MusicPlayer_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
